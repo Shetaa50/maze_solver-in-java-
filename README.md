@@ -2,10 +2,13 @@ this program was ade in java to resemble a solution for the rat in a maze proble
 
 the developers contributing to :
 
-1- Saifullah Hassan Hegazy  (https://github.com/Seif302010)
-2-Abd El-Rahman Sobhy Rashad Mohammed (https://github.com/Shetaa50)
-3-Mohammed Khalid Samra (https://github.com/m0h-khaled)
+  1- [Saifullah Hassan Hegazy Mahmoud](https://github.com/Seif302010)
+  
+  2-[Abd El-Rahman Sobhy Rashad Mohammed](https://github.com/Shetaa50)
+  
+  3-[Mohammed Khalid Samra](https://github.com/m0h-khaled)
 
+Download builds: [here](https://github.com/Shetaa50/maze_solver-in-java-/releases/)
 we hope you find this code useful 
 
 have a nice code ^_^ . 
