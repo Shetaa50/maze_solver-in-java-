@@ -1,4 +1,4 @@
-this program was ade in java to resemble a solution for the rat in a maze problem using "DFS" and multi-threading showing them in real-time progress in a simple GUI, the maze is represented by a 2D matrix 
+this program was made in java to resemble a solution for the rat in a maze problem using "DFS" and multi-threading showing them in real-time progress in a simple GUI, the maze is represented by a 2D matrix 
 
 the developers contributing to :
 
